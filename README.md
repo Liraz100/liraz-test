@@ -1,2 +1,3 @@
 learning GitHub
-It is Fun
+A cat has enterd the room
+He made a mess
